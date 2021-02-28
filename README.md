@@ -21,3 +21,4 @@ If there is a new update the script will stop the server, apply the update, and 
 
 ### TO DO
 - [ ] Add Auto backup of world
+- [ ] Add script that installs SteamCMD and Valheim Server
