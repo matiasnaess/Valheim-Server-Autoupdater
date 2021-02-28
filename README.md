@@ -14,6 +14,8 @@ Before you can begin using the Autoupdater you must have SteamCMD and Valheim De
 * Save the config and run the script using Powershell 
 
 ## How does it work? 
+The script will every 5 minutes query the Steam API too check if a new version of Valheim is relased. 
+If there is a new update the script will stop the server, apply the update, and then start the server again. 
 
 
 
