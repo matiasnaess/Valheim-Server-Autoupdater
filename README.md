@@ -17,6 +17,7 @@ Before you can begin using the Autoupdater you must have SteamCMD and Valheim De
 The script will every 5 minutes query the Steam API too check if a new version of Valheim is relased. 
 If there is a new update the script will stop the server, apply the update, and then start the server again. 
 
+You can easily change how often too check for an update by editing the script. (See code comments) 
 
 
 ### TO DO
