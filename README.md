@@ -21,7 +21,7 @@ You can easily change how often too check for an update by editing the script. (
 
 
 ### TO DO
-- [ ] Add time checked
+- [ ] Add time query
 - [ ] Add Auto backup of world
 - [ ] Add script that installs SteamCMD and Valheim Server
 - [ ] Add server uptime
