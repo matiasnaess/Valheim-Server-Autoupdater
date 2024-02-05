@@ -1,4 +1,6 @@
-# Valheim-Server-Autoupdater :crossed_swords: (Outdated) 
+# ⛔️ [DEPRECATED] - This repository is no longer maintained.
+
+# Valheim-Server-Autoupdater :crossed_swords: 
 Simple Powershell script for automatically keeping your Valheim Server up to date.
 
 ![Image of Script](https://i.imgur.com/Bv9q8Rg.png)
